@@ -1,2 +1,1 @@
-# git-fetch3
-astgrth
+# git-fetch
